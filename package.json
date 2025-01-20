@@ -1,0 +1,7 @@
+{
+  "name": "unimport-vue-bug",
+  "packageManager": "pnpm@9.15.1",
+  "dependencies": {
+    "unimport": "^3.14.6"
+  }
+}
